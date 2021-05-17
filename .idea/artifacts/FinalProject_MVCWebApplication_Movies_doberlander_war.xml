@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FinalProject_MVCWebApplication_Movies_doberlander:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FinalProject_MVCWebApplication_Movies_doberlander</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Movies_doberlander-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FinalProject_MVCWebApplication_Movies_doberlander:war exploded" />
+    </root>
+  </artifact>
+</component>

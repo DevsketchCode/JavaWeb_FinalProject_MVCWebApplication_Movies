@@ -1,0 +1,43 @@
+body {
+  background-color: #333333;
+  color: #c4d8ff;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  text-align: center;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-size: 4em;
+}
+
+h2 {
+  color: #DDDDDD;
+  font-size: 1.5em;
+}
+
+p {
+  line-height: 20px;
+}
+
+a, a:visited { color: orange; }
+
+a:hover, a:focus { color: orangered; }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 80%;
+  width: 100%;
+}
+
+#serverGoBackMsg {
+  color: #DDDDDD;
+  margin-top: 50px;
+}
