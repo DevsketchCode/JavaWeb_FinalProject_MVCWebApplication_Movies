@@ -7,5 +7,6 @@ CVTC Final Project - Java Web application using JSPs, Maven, import from an Exce
 
 <p align="center">
    Mobile View: 
+   
    <img src="https://user-images.githubusercontent.com/69563324/118670097-eee9d000-b7bb-11eb-91a1-d3aaba3022af.jpg">
 </p>  
